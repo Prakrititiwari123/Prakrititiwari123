@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Prakriti%20Tiwari&fontSize=42&fontColor=00E5FF&animation=fadeIn)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=Coder;Frontend+Developer;MERN+Stack+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=900&lines=Coder;Frontend+Developer;MERN+Stack+Learner;Backend+Developer)
 <h1 align="center">Hi 👋, I'm Prakriti Tiwari</h1>
 <h3 align="center">A passionate frontend - backend developer from India</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRee3Og4LMEp16LJGKnFN-1QMSKixk_z53pag&s" alt="coding" widht="400" />
