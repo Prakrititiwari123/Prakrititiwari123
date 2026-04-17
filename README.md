@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=61DAFB" />
   <img src="https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&color=339933" />
   <img src="https://img.shields.io/badge/Code-Express.js-informational?style=for-the-badge&logo=express&color=000000" />
@@ -14,13 +14,13 @@
   <img src="https://img.shields.io/badge/Style-TailwindCSS-informational?style=for-the-badge&logo=tailwindcss&color=06B6D4" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&color=F05032" />
   <img src="https://img.shields.io/badge/Design-Figma-informational?style=for-the-badge&logo=figma&color=F24E1E" />
-</div>
+</div> -->
 
 <br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prakrititiwari123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/prakrititiwari123?label=Followers&style=social" alt="GitHub Followers" />
+  <!-- <img src="https://img.shields.io/github/followers/prakrititiwari123?label=Followers&style=social" alt="GitHub Followers" /> -->
 </p>
 
 ---
