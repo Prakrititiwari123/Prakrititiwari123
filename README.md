@@ -53,6 +53,9 @@
   <a href="https://leetcode.com/u/prakrititi6oxp/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/prakrititi6oxp?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
   <a href="https://vercel.com/prakrititiwari123s-projects" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
